@@ -1,4 +1,4 @@
-### Hi there 👋
+### Sindhu Priya Mallavarapu
 
 <!--
 **MSindhuPriya/MSindhuPriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am an undergraduate student at the Univeristy of Toronto in my final year. I expect to graduate by November 2024. I am majoring in Statistics with a minor in Computer Science, and Mathematics.
