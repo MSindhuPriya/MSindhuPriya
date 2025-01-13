@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am an undergraduate student at the Univeristy of Toronto in my final year. I expect to graduate by November 2024. I am majoring in Statistics with a minor in Computer Science, and Mathematics.
+I am a recent grad from the University of Toronto and am interested in data analysis and statistics. My projects on GitHub showcase some of my passions and skills in relation to data modelling, predictive analysis, as well as my love of literature. I am always eager to continue learning and would love to collaborate on open source projects!
